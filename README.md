@@ -2,7 +2,7 @@
 
 📍 Ilmenau, Germany  
 📧 zhayder816@gmail.com | 📱 +49 15752849909  
-[LinkedIn](https://www.linkedin.com/in/zula.hayder/) • [GitHub](https://github.com/ZulqarnainHayder)
+[LinkedIn](https://www.linkedin.com/in/zulqarnainhayder5/) • [GitHub](https://github.com/ZulqarnainHayder)
 
 ---
 
@@ -70,4 +70,4 @@ I’m currently open to **remote/hybrid opportunities** in **Frontend Developmen
 
 📧 zhayder816@gmail.com  
 📞 +49 15752849909  
-🌐 [GitHub](https://github.com/ZulqarnainHayder) | [LinkedIn](https://www.linkedin.com/in/zula.hayder/)
+🌐 [GitHub](https://github.com/ZulqarnainHayder) | [LinkedIn](https://www.linkedin.com/in/zulqarnainhayder5/)
