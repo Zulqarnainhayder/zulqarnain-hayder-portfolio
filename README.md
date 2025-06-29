@@ -105,8 +105,8 @@ I thrive in Agile environments, collaborate well with cross-functional teams, an
 | <b>Role</b> | <b>Company</b> | <b>Duration</b> | <b>Highlights</b> |
 |:--:|:--:|:--:|:--|
 | Senior Frontend Developer | <a href="https://evotik.com" target="_blank" rel="noopener noreferrer">EVOTIK, Dubai</a> | Feb 2024 – Jan 2025 | Led production-grade Vue/Quasar web apps, CI/CD, QA |
-| Senior Software Engineer | Inglobe Systems, Pakistan | Oct 2021 – Feb 2024 | Architected React+TS apps, IoT dashboards, test automation |
-| Frontend Engineer + QA | Programmer Force, Pakistan | Nov 2019 – Oct 2021 | Delivered HRM/Finance apps, test suites, CI pipelines |
+| Senior Software Engineer | <a href="https://www.intagleo.com/" target="_blank" rel="noopener noreferrer">INGLOBE SYSTEMS, Pakistan</a> | Oct 2021 – Feb 2024 | Architected React+TS apps, IoT dashboards, test automation |
+| Frontend Engineer + QA | <a href="https://pf.com.pk/" target="_blank" rel="noopener noreferrer">PROGRAMMER FORCE, Pakistan</a> | Nov 2019 – Oct 2021 | Delivered HRM/Finance apps, Vue/Vuetify, test suites, CI pipelines |
 
 ---
 
