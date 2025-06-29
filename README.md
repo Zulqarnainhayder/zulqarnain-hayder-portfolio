@@ -6,10 +6,10 @@
 
 <p>
   <img src="https://img.shields.io/badge/Location-Ilmenau,%20Germany-2D9CDB?style=flat-square&logo=googlemaps&logoColor=white"/>
-  <a href="mailto:zhayder816@gmail.com"><img src="https://img.shields.io/badge/Email-zhayder816@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="tel:+4915752849909"><img src="https://img.shields.io/badge/Phone-%2B49%2015752849909-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/zulqarnainhayder5/"><img src="https://img.shields.io/badge/LinkedIn-ZulqarnainHayder5-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/ZulqarnainHayder"><img src="https://img.shields.io/badge/GitHub-ZulqarnainHayder-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="mailto:zhayder816@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-zhayder816@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="tel:+4915752849909" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Phone-%2B49%2015752849909-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/zulqarnainhayder5/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-ZulqarnainHayder5-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ZulqarnainHayder" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-ZulqarnainHayder-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -109,7 +109,7 @@ I thrive in Agile environments, collaborate well with cross-functional teams, an
 
 | <b>Role</b> | <b>Company</b> | <b>Duration</b> | <b>Highlights</b> |
 |:--:|:--:|:--:|:--|
-| Senior Frontend Developer | <a href="https://evotik.com">EVOTIK, Dubai</a> | Feb 2024 – Jan 2025 | Led production-grade Vue/Quasar web apps, CI/CD, QA |
+| Senior Frontend Developer | <a href="https://evotik.com" target="_blank" rel="noopener noreferrer">EVOTIK, Dubai</a> | Feb 2024 – Jan 2025 | Led production-grade Vue/Quasar web apps, CI/CD, QA |
 | Senior Software Engineer | Inglobe Systems, Pakistan | Oct 2021 – Feb 2024 | Architected React+TS apps, IoT dashboards, test automation |
 | Frontend Engineer + QA | Programmer Force, Pakistan | Nov 2019 – Oct 2021 | Delivered HRM/Finance apps, test suites, CI pipelines |
 
@@ -137,10 +137,10 @@ Let’s build something great together!
 </blockquote>
 
 <p>
-  <a href="mailto:zhayder816@gmail.com"><img src="https://img.shields.io/badge/Email-zhayder816@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="tel:+4915752849909"><img src="https://img.shields.io/badge/Phone-%2B49%2015752849909-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://github.com/ZulqarnainHayder"><img src="https://img.shields.io/badge/GitHub-ZulqarnainHayder-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/zulqarnainhayder5/"><img src="https://img.shields.io/badge/LinkedIn-ZulqarnainHayder5-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:zhayder816@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-zhayder816@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="tel:+4915752849909" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Phone-%2B49%2015752849909-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://github.com/ZulqarnainHayder" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-ZulqarnainHayder-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/zulqarnainhayder5/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-ZulqarnainHayder5-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 </div>
