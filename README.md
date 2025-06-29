@@ -2,10 +2,6 @@
 
 <img src="img.png" width="250" style="border-radius:50%;box-shadow:0 4px 24px rgba(0,0,0,0.18);margin-bottom:18px;animation:fadeIn 1.2s;" alt="Zulqarnain Hayder Avatar" />
 
-<style>
-@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
-</style>
-
 <h1 align="center" style="font-size:2.4em; font-weight:bold; margin-bottom:0;">👋 Hi, I'm Zulqarnain Hayder</h1>
 
 <p>
