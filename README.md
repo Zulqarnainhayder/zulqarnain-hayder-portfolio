@@ -1,6 +1,6 @@
 # zulqarnain-hayder-portfolio<div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/55423961?v=4" width="140" style="border-radius:50%;" alt="Zulqarnain Hayder Avatar" />
+<img src="img.jpg" width="140" style="border-radius:50%;" alt="Zulqarnain Hayder Avatar" />
 
 # 👋 Hi, I'm Zulqarnain Hayder
 
