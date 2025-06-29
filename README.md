@@ -1,4 +1,4 @@
-# zulqarnain-hayder-portfolio<div align="center">
+<div align="center">
 
 <img src="img.jpg" width="140" style="border-radius:50%;" alt="Zulqarnain Hayder Avatar" />
 
