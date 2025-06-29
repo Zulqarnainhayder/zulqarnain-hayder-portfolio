@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="img.png" width="250" style="border-radius:50%;" alt="Zulqarnain Hayder Avatar" />
+<img src="img.png" width="250" style="border-radius:50%;box-shadow:0 4px 24px rgba(0,0,0,0.18);margin-bottom:18px;animation:fadeIn 1.2s;" alt="Zulqarnain Hayder Avatar" />
 
-# 👋 Hi, I'm Zulqarnain Hayder
+<style>
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+</style>
+
+<h1 align="center" style="font-size:2.4em; font-weight:bold; margin-bottom:0;">👋 Hi, I'm Zulqarnain Hayder</h1>
 
 <p>
   <img src="https://img.shields.io/badge/Location-Ilmenau,%20Germany-2D9CDB?style=flat-square&logo=googlemaps&logoColor=white"/>
@@ -12,20 +16,20 @@
   <a href="https://github.com/ZulqarnainHayder" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-ZulqarnainHayder-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
----
+<div style="height:10px;background:linear-gradient(90deg,#e0eafc,#cfdef3 70%,#e0eafc);margin:32px 0 18px 0;border-radius:5px;"></div>
 
-<i>
+<blockquote style="font-size:1.1em;background:#f9fafc;padding:1.3em 1.5em;border-left:5px solid #6bc2ff;box-shadow:0 2px 8px rgba(0,0,0,0.04);margin-bottom:0.8em;">
 I’m a <b>Frontend Developer</b> and <b>QA Automation Engineer</b> with over <b>5+ years</b> of experience building responsive, scalable, and secure web applications using <b>Vue.js</b>, <b>React</b>, <b>TypeScript</b>, <b>Quasar</b>, <b>Django</b>, and <b>Laravel</b>.<br>
 I thrive in Agile environments, collaborate well with cross-functional teams, and emphasize clean code, test coverage, and CI/CD automation.
-</i>
+</blockquote>
 
 </div>
 
----
+<div style="height:10px;background:linear-gradient(90deg,#fbc2eb,#a6c1ee 70%,#fbc2eb);margin:32px 0 18px 0;border-radius:5px;"></div>
 
 <div align="center">
 
-### 🛠️ Tech Stack
+<h2 style="font-size:1.7em;font-weight:bold;">🛠️ Tech Stack</h2>
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -81,12 +85,9 @@ I thrive in Agile environments, collaborate well with cross-functional teams, an
 
 </div>
 
----
+<div style="height:10px;background:linear-gradient(90deg,#fbc2eb,#a6c1ee 70%,#fbc2eb);margin:32px 0 18px 0;border-radius:5px;"></div>
 
-## 🚀 Selected Projects
-
-<details>
-  <summary><b>Click to expand</b></summary>
+<h2 align="center" style="font-size:1.7em;font-weight:bold;">🚀 Selected Projects</h2>
 
 | <b>Project</b> | <b>Description</b> | <b>Stack</b> | <b>Role</b> |
 |:--------:|:-------------:|:-------:|:------:|
@@ -101,11 +102,9 @@ I thrive in Agile environments, collaborate well with cross-functional teams, an
 | [**CADHunt**](https://www.cadhunt.com/) | Talent recruitment portal for engineers | <img src="https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=vue.js&logoColor=white"/> | Frontend |
 | [**iMakeup**](https://imakeup.evotik.com/en) | Virtual makeup try-on and e-commerce portal | <img src="https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=vue.js&logoColor=white"/> | Frontend |
 
-</details>
+<div style="height:10px;background:linear-gradient(90deg,#e0eafc,#cfdef3 70%,#e0eafc);margin:32px 0 18px 0;border-radius:5px;"></div>
 
----
-
-## 🧪 Recent Roles
+<h2 align="center" style="font-size:1.7em;font-weight:bold;">🧪 Recent Roles</h2>
 
 | <b>Role</b> | <b>Company</b> | <b>Duration</b> | <b>Highlights</b> |
 |:--:|:--:|:--:|:--|
@@ -129,9 +128,9 @@ I thrive in Agile environments, collaborate well with cross-functional teams, an
 
 <div align="center">
 
-## 📫 Let's Connect
+<h2 style="font-size:2.2em;font-weight:bold;">📫 Let's Connect</h2>
 
-<blockquote>
+<blockquote style="font-size:1.1em;background:#f9fafc;padding:1.3em 1.5em;border-left:5px solid #6bc2ff;box-shadow:0 2px 8px rgba(0,0,0,0.04);margin-bottom:0.8em;">
 I’m currently open to <b>remote/hybrid opportunities</b> in <b>Frontend Development</b> or <b>QA Automation</b>.<br>
 Let’s build something great together!
 </blockquote>
